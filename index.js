@@ -1,4 +1,4 @@
-console.log("works!!", process.argv[2]);
+console.log("To-Do-List-Assignment)
 
 var commandType = process.argv[2];
 
